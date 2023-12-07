@@ -1,2 +1,4 @@
-# twaiq_drones_programing_assignment1-
-twaiq drones programing assignment 1
+# twaiq drones programing assignment 1
+اكتب كود برمجي ينفذ الأتي:-
+1. يستقبل قيمة عددية من المستخدم و حفظ الرقم في متغير بأسم number
+2. يكرر طباعة كلمة "drones programming" لعدد مرات مساوي للرقم الاذي ادخله المستخدم
