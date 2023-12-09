@@ -1,0 +1,6 @@
+# يستقبل قيمة عددية من المستخدم و حفظ الرقم في متغير بأسم number
+number = int(input("enter a number: "))
+
+# يكرر طباعة كلمة "drones programming" لعدد مرات مساوي للرقم الاذي ادخله المستخدم
+for i in range(number):
+    print("drones programming")
