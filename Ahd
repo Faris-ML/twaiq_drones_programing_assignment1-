@@ -1,0 +1,6 @@
+
+number = int(input("الرجاء إدخال الرقم: "))
+
+for _ in range(number):
+    print("drones programming")
+    
