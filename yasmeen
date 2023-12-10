@@ -1,0 +1,4 @@
+number = int(input("Enter the number: "))
+
+for i in range (20):
+          print("drones programming")
